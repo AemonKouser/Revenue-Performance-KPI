@@ -19,8 +19,8 @@ This project is a Revenue Performance KPI Dashboard built using **Power BI** to 
 
 - Sales targets were achieved only **2 out of 14 months**
 - Total sales were **$2M short** of YTD target
-- Notable top performers: **Curtice Advani** (+5.94%) & **Oby Sorrel** (+3.03%)
-- Underperformance identified for team members with > -6% variance
+- Top Performers: Kaine Padly (+9.00%), Curtice Advani (+5.94%)
+- Underperformance identified for team members with > -9% variance
 
 ---
 
